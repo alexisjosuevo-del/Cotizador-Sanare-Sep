@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "servicio": "APLICACIÓN DE MEDICAMENTO SUBCUTÁNEO",
+      "precio": 850
+    },
+    {
+      "servicio": "APLICACIÓN DE MEDICAMENTO INTRAVENOSO",
+      "precio": 1200
+    },
+    {
+      "servicio": "KIT DE INSUMOS",
+      "precio": 1800
+    },
+    {
+      "servicio": "CONSULTA ONCOLÓGICA",
+      "precio": 1500
+    }
+  ]
+}
